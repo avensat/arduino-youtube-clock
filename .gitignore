@@ -1,0 +1,8 @@
+# Apple macOS
+.DS_Store
+.DS_Store?
+*/.DS_Store
+
+# IntelliJ IDEA
+.idea
+cmake-build-debug
