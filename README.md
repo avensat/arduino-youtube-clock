@@ -19,5 +19,6 @@ MAX7219 Dot Matrix Module For Arduino Microcontroller 4 In One Display with 5P L
 - https://a.aliexpress.com/_B02xfP
 - https://www.maximintegrated.com/en/products/power/display-power-control/MAX7219.html
 
----
+## License
+Licensed under the [MIT License](./LICENSE).
 
